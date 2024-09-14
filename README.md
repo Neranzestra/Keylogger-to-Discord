@@ -2,6 +2,7 @@
 This is a easy Python Script that Logs all Keystrokes and sends them to a Discord webhook.
 
 HOW TO SET IT UP 
+
 1. Create an account at Discord and Create a new server
 2. Create a Discord-Bot and get his Webhook (if you dont know how just google it)
 3. Download the Files above
@@ -17,7 +18,9 @@ HOW TO SET IT UP
 13. You got your keylogger !!!
 
 WHAT IT DOES 
+
 Once you run it on your pc it logs every keystroke and if you dont type for 10 Seconds it sends all logt Keystrokes to your discord server.
 
 !!!IMPORTANT!!!
+
 This Projekt is educational purposes only, only do it on devices you own. Im not responsible for your aktion or the damage you cause with this script.
